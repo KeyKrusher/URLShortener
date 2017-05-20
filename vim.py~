@@ -1,0 +1,6 @@
+# Code written by Jack Clark
+# Code for URL Shortener
+# Go here for more stuff:
+import os
+import sys
+import platform
